@@ -1,0 +1,13 @@
+Arhitecture of the components for ui
+
+main {
+	navbar1 -> title and login
+	navbar2 -> routing for learning pages
+	content {
+		pages for learning {
+			list-lessons {
+				lesson
+			}
+		}
+	footer
+	
